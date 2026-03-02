@@ -46,7 +46,7 @@ Dates
 
 
 
-📌 Key Business KPIs
+**📌 Key Business KPIs**
 
 💰 Total Revenue
 
@@ -64,7 +64,8 @@ Dates
 
 ⭐ Customer Segmentation (RFM Analysis)
 
-Implemented RFM model to segment customers based on:
+
+**Implemented RFM model to segment customers based on:**
 
 Recency – How recently customer purchased
 
@@ -79,6 +80,8 @@ High-value customers
 Loyal customers
 
 At-risk customers
+
+
 
 💰 Profit Optimization Analysis
 
