@@ -22,7 +22,7 @@ Forecast revenue trends
 Provide data-driven business recommendations
 
 
-📂 Dataset Used
+**📂 Dataset Used**
 
 Orders.csv
 
@@ -43,6 +43,8 @@ Profit
 Quantity
 
 Dates
+
+
 
 📌 Key Business KPIs
 
