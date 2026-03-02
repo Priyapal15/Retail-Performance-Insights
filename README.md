@@ -91,6 +91,8 @@ Highlighted loss-making product groups
 
 Suggested pricing and cost optimization strategies
 
+
+
 📈 Sales Trend & Forecasting
 
 Monthly sales trend analysis
@@ -136,7 +138,7 @@ Customer Order Frequency
 Profit Margin Analysis
 
 
-🎯 Business Recommendations
+**🎯 Business Recommendations**
 
 Target high CLV customers with loyalty programs
 
@@ -149,7 +151,7 @@ Align inventory with seasonal sales trends
 Use advanced models for improved revenue forecasting
 
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Python
 
