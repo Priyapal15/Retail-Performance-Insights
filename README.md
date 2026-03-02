@@ -6,7 +6,8 @@ This project presents a comprehensive retail sales analysis focused on extractin
 
 It demonstrates strong Data Analyst skills including KPI development, trend analysis, SQL-style data aggregation, and business decision support.
 
-🚀 Project Objectives
+
+**🚀 Project Objectives**
 
 Analyze overall sales performance
 
@@ -19,6 +20,7 @@ Evaluate product category performance
 Forecast revenue trends
 
 Provide data-driven business recommendations
+
 
 📂 Dataset Used
 
