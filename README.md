@@ -93,7 +93,7 @@ Suggested pricing and cost optimization strategies
 
 
 
-📈 Sales Trend & Forecasting
+**📈 Sales Trend & Forecasting**
 
 Monthly sales trend analysis
 
