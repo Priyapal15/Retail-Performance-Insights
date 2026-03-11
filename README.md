@@ -83,7 +83,7 @@ At-risk customers
 
 
 
-💰 Profit Optimization Analysis
+**💰 Profit Optimization Analysis**
 
 Identified sub-categories with high revenue but low profit margins
 
