@@ -125,7 +125,7 @@ Hyperparameter tuning
 SHAP explainability
 
 
-📊 SQL-Style Business Reporting
+**📊 SQL-Style Business Reporting**
 
 Used Pandas groupby operations equivalent to SQL queries:
 
