@@ -104,7 +104,7 @@ Seasonal pattern identification
 Supports inventory planning and sales strategy.
 
 
-🧠 Predictive Modeling
+**🧠 Predictive Modeling**
 
 Built and compared multiple models:
 
